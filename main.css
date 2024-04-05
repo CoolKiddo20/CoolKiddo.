@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} 
+.h1_text{
+    background-color: green;
+    color: yellow;
+    text-align: center;
+    border: 0.5cm red solid;
+    border-radius: 20cm;
+}
+body{
+    color: greenyellow;
+    background-color: greenyellow;
+}
